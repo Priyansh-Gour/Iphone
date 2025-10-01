@@ -9,6 +9,8 @@ export default defineConfig({
     project: "javascript-react"
   })],
 
+  base:"/Iphone",
+
   build: {
     sourcemap: true
   }
